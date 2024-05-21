@@ -8,4 +8,4 @@ Para rodar o projeto, use o seguinte comando:
 g++ main.cpp escultor3d.cpp
 ```
 
-Para acessar a documentação, abra o arquivo "index" da pasta "documentacao-escultor3d".
+Para acessar a documentação, abra o arquivo ["index"](https://github.com/Enio-Antonio/escultor-3d/tree/main/documentacao-escultor3d/index.html) da pasta ["documentacao-escultor3d"](https://github.com/Enio-Antonio/escultor-3d/tree/main/documentacao-escultor3d).
