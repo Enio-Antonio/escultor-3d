@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Escultor3D.h"
+#include "escultor3d.h"
 
 int main()
 {

@@ -1,4 +1,4 @@
-#include "Escultor3D.h"
+#include "escultor3d.h"
 
 #include <iostream>
 #include <fstream>
